@@ -1,0 +1,2 @@
+export const SOME_MUTATION = "SOME_MUTATION"
+export const GET_USERINFO="GET_USERINFO"
